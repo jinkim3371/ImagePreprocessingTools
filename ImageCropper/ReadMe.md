@@ -5,8 +5,8 @@ Simple image cropper for preprocessing training data for GANs.
 # Requirements 
 - python 3
 - ffmpeg 4.3.1    
-   conda install -c conda-forge ffmpeg 
-	or
+   conda install -c conda-forge ffmpeg    
+	or    
    Download from : https://anaconda.org/conda-forge/ffmpeg
 
 # Usage
