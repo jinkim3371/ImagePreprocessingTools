@@ -1,4 +1,4 @@
-ImageCropper v.1.0
+# ImageCropper v.1.0
 
 
 Simple image cropper for preprocessing training data for GANs.
