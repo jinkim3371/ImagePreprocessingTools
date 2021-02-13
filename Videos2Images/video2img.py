@@ -5,12 +5,11 @@ import os
 import numpy as np
 
 if __name__ == "__main__":
-
-    #init ImageCropper class
+    #init paths
     outPath = "./Output/"
     path = "./Source/"
 
-    #init_path
+    #init fps
     fps = 0.1
 
     # iterate through the names of contents of the folder
