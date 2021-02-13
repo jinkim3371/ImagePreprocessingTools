@@ -1,9 +1,8 @@
 # ImageCropper v.1.0
 
-
 Simple image cropper for preprocessing training data for GANs.
 
-[Usage]
+# Usage
 Place desired images for cropping to 'SourceImg' directory.
 
 Run:
